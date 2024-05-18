@@ -1,0 +1,5 @@
+# Example .gitignore content
+myenvfortesting/
+*.pyc
+__pycache__/
+.DS_Store  # for macOS users
